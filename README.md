@@ -32,5 +32,5 @@ dodo, dodo, dodo, dodo, taff, dodo, dodo, dodo, dodo
 
 ### ⭐Statistiques GitHub
 
-![Laurent70300 GitHub stats](https://github-readme-stats.vercel.app/api?username=Laurent70300&theme=algolia&show_icons=true&count_private=true)
+[![Laurent70300 GitHub stats](https://github-readme-stats.vercel.app/api?username=Laurent70300)](https://github.com/Laurent70300/github-readme-stats)
           
