@@ -1,10 +1,10 @@
-Je suis Laurent, vivant en Haute Saone, Développement Web et Web mobile ! 😁
+Je suis Laurent, vivant en Haute Saone, Développeur Web et Web mobile ! 😁
 
-Réellement :
+### Réellement :
 
-- 🔭Je recherche un stage de 3 à 6 mois à partir de début avril 2023 ^^
+- 🔭Je recherche un emploi dans le dev Front End ^^
 - 🌱J'apprends des choses incroyables !
-- ⚡Fun fact : Passionée de mangas, j'adore les chats ₍^ >ヮ<^₎
+- ⚡Fun fact : Passionée de Technologie, Internet, j'adore les chats ₍^ >ヮ<^₎
 - 📫Comment me joindre : Linkedin, Facebook
 
 ➳༻❀ ☕ ❀༺➳
@@ -29,7 +29,7 @@ Réellement :
 
 ### Ma routine quotidienne :
 
-dodo, dodo, dodo, dodo, taff, dodo, dodo, dodo
+dodo, dodo, dodo, dodo, taff, dodo, dodo, dodo, dodo
 
 ### ⭐Statistiques GitHub
 
