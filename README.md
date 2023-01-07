@@ -4,10 +4,9 @@ Je suis Laurent, vivant en Haute Saone, Développeur Web et Web mobile ! 😁
 
 - 🔭Je recherche un emploi dans le dev Front End ^^
 - 🌱J'apprends des choses incroyables !
-- ⚡Fun fact : Passionée de Technologie, Internet, j'adore les chats ₍^ >ヮ<^₎
+- ⚡Fun fact : Passioné de Technologie, Internet, j'adore les chats ₍^ >ヮ<^₎
 - 📫Comment me joindre : Linkedin, Facebook
 
-➳༻❀ ☕ ❀༺➳
 
 ### Contactez-moi :
 
@@ -33,5 +32,5 @@ dodo, dodo, dodo, dodo, taff, dodo, dodo, dodo, dodo
 
 ### ⭐Statistiques GitHub
 
-![Lucie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laurent70300&theme=algolia&show_icons=true&count_private=true)
+![Laurent70300 GitHub stats](https://github-readme-stats.vercel.app/api?username=Laurent70300&theme=algolia&show_icons=true&count_private=true)
           
