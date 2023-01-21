@@ -15,7 +15,7 @@
 [![Website](https://img.shields.io/badge/Site%20Web-813ee8?style=for-the-badge)](https://www.laurentlebarbier.fr)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=fff)](https://www.facebook.com/laurent.lebarbier.5)
 
-## Tech
+## Tech / Languages
 
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -28,10 +28,6 @@
   <img alt="WINDOWS" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
  
-## Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Divers
 
 ![stats](https://github-readme-stats.vercel.app/api?username=Laurent70300)
